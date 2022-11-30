@@ -40,6 +40,7 @@ tomli = "2.0.1"
 traitlets = "5.4.0"
 wcwidth = "0.2.5"
 werkzeug = "2.2.2"
+importlib-resources = "*"
 
 [requires]
 python_version = "3.8.13"
